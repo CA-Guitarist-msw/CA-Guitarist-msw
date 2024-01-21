@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I love making games and music!
+
+
+
 <!--
 **CA-Guitarist-msw/CA-Guitarist-msw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
