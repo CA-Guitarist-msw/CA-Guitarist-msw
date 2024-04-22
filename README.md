@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I love making games and music!
 
